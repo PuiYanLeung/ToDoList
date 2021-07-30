@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+    margin:0;
+}
+
+.imagebar {
+    padding: 10px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+
+.imagef {
+    border-radius: 10px;
+}
